@@ -1,1 +1,1 @@
-# python
+# <div align="center">python 指令說明</div>
