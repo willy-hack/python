@@ -1,5 +1,13 @@
 # <div align="center">python 指令說明 && 終端機指令</div>
 
+終端指令`Terminal基本指令`
+```bash
+clear # 清除輸出
+cd <地址> # 進入目錄
+ls # 掃描當前資料夾
+echo <環境變數> # 輸出指令
+```
+
 終端指令`系統控制指令`
 ```bash
 sudo poweroff # 關機指令(基本Linux都可使用)
