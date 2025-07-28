@@ -1,4 +1,4 @@
-# <div align="center">python 指令說明 && 終端機指令</div>
+# <div align="center">終端機指令大權[以分類完成]</div>
 
 終端指令`系統控制指令`
 ```bash
